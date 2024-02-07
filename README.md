@@ -1,6 +1,6 @@
 # Prácticas vhdl de Tecnología Organización de Computadores
 
-1. Hardware Design and Modeling with VHDL
+- 1. Hardware Design and Modeling with VHDL
    1.1. Design Flow
    1.2. Hardware Description Language (HDL)
    1.3. Simulation with VHDL
@@ -10,7 +10,7 @@
    1.7. Other Elements of VHDL
    1.8. Techbenches
 
-2. Physical Parameter Measurement
+- 2. Physical Parameter Measurement
    2.1. Why evaluate?
    2.2. Technological evolution
    2.3. Static Time Analysis (STA)
